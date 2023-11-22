@@ -1,14 +1,14 @@
 # DPR RI VOte Analysis 2023 
 
-[![Jumlah Dapil: Jumlah Dapil](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
-[![npm package][npm-coreui-badge]][npm-coreui]
-[![NPM downloads][npm-coreui-download]][npm-coreui]
-[![@coreui react](https://img.shields.io/badge/@coreui%20-react-lightgrey.svg?style=flat-square)](https://github.com/coreui/react)
-[![npm package][npm-coreui-react-badge]][npm-coreui-react]
-[![NPM downloads][npm-coreui-react-download]][npm-coreui-react]  
+[![Jumlah_dapil:80](https://img.shields.io/badge/jumlahdapil-80-yellow.svg?style=flat-square)](https://opensource.org/jumlahdapil/80)
+[![jumlah desa](https://img.shields.io/badge/jumlah_desa%20-58.150-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
+[![jumlah kecamatan](https://img.shields.io/badge/jumlah_kecamatan%20-6.312-green.svg?style=flat-square)](https://github.com/coreui/coreui)
+[![jumlah kota](https://img.shields.io/badge/jumlah_kota%20-549-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
+[![jumlah provinsi](https://img.shields.io/badge/jumlah_provinsi%20-35-grey.svg?style=flat-square)](https://github.com/coreui/coreui)
+[![jumlah partai](https://img.shields.io/badge/jumlah_partai%20-20-orange.svg?style=flat-square)](https://github.com/coreui/coreui) 
+[![Total data](https://img.shields.io/badge/total_data%20-1.260.979-blue.svg?style=flat-square)](https://github.com/coreui/coreui) 
 
-[npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
+[DPR RI Votes]: https://www.npmjs.com/package/@coreui/coreui
 [npm-coreui-badge]: https://img.shields.io/npm/v/@coreui/coreui.png?style=flat-square
 [npm-coreui-download]: https://img.shields.io/npm/dm/@coreui/coreui.svg?style=flat-square
 [npm-coreui-react]: https://www.npmjs.com/package/@coreui/react
@@ -18,23 +18,16 @@
 
 [![Bootstrap Admin Template](https://assets.coreui.io/products/coreui-free-bootstrap-admin-template-light-dark.webp)](https://coreui.io/product/free-react-admin-template/)
 
-CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
+Dashboard akan dibuat seringkas mungkin namun tetap mempertahankan valuable information agar pengguna dapat dengan ringkas dan cepat dalam mendapatkan informasi yang diberikan
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [CoreUI PRO](#coreui-pro)
-* [CoreUI PRO React Admin Templates](#coreui-pro-react-admin-templates)
-* [Quick Start](#quick-start)
-* [Installation](#installation)
-* [Basic usage](#basic-usage)
-* [What's included](#whats-included)
-* [Documentation](#documentation)
-* [Versioning](#versioning)
-* [Creators](#creators)
-* [Community](#community)
-* [Support CoreUI Development](#support-coreui-development)
-* [Copyright and License](#copyright-and-license)
+* [Perolehan data masing-masing dapil](#versions)
+* [Perolehan suara masing-masing partai](#versions)
+* [Persentase perolehan suara](#versions)
+* [jumlah kemenangan setiap partai](#versions)
+* [persentase suara diatas 15 %](#versions)
+
 
 ## Versions
 
