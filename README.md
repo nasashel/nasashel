@@ -8,7 +8,7 @@
 [![jumlah partai](https://img.shields.io/badge/jumlah_partai%20-20-orange.svg?style=flat-square)](https://github.com/coreui/coreui) 
 [![Total data](https://img.shields.io/badge/total_data%20-1.260.979-blue.svg?style=flat-square)](https://github.com/coreui/coreui) 
 
-[DPR RI Votes]: https://www.npmjs.com/package/@coreui/coreui
+[DPR RI Votes]: https://www.npmjs.com/package/@coreui/coreui 
 [npm-coreui-badge]: https://img.shields.io/npm/v/@coreui/coreui.png?style=flat-square
 [npm-coreui-download]: https://img.shields.io/npm/dm/@coreui/coreui.svg?style=flat-square
 [npm-coreui-react]: https://www.npmjs.com/package/@coreui/react
